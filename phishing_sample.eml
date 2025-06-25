@@ -1,0 +1,24 @@
+Return-Path: <support@paypalsecurity-alert.com>
+Received: from unknown.host.fake (unknown [192.0.2.123])
+    by mail.example.com (Postfix) with ESMTP id ABC123456
+    for <victim@example.com>; Tue, 25 Jun 2025 10:00:00 +0530
+Date: Tue, 25 Jun 2025 10:00:00 +0530
+From: "PayPal" <support@paypalsecurity-alert.com>
+Reply-To: support@paypalsecurity-alert.com
+Subject: Account Notice: Immediate Action Required
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Message-ID: <1234567890@example.com>
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected unusual activity in your account. To protect your account, access has been temporarily limited.</p>
+    <p>Please confirm your identity immediately to avoid permanent suspension:</p>
+    <p><a href="http://paypal-security-verification.com/login">Click here to verify your account</a></p>
+    <p>Failure to act within 24 hours will result in account termination.</p>
+    <p>Thank you for choosing PayPal.</p>
+    <p>- PayPal Security Team</p>
+  </body>
+</html>
